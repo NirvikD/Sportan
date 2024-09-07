@@ -1,0 +1,15 @@
+Sportan/
+├── app.py               # Main Flask/Django app file
+├── templates/           # HTML templates for frontend
+│   └── index.html       # Main web page
+├── static/              # CSS, JavaScript, images, etc.
+│   ├── css/
+│   ├── js/
+├── data/                # CSV or SQL files with player data
+│   └── players.csv
+├── models/              # Python files for data models (optional)
+├── visualizations/      # Scripts to generate data visualizations
+├── requirements.txt     # List of required Python packages
+├── Dockerfile           # For containerization (optional)
+├── README.md            # Project documentation
+└── db_setup.sql         # SQL script to set up the database
