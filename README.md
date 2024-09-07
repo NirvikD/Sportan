@@ -20,10 +20,11 @@
 - **Innings Batted**: >3
 - **Boundary Percentage**: >50%
 - **Batting Position**: <4
+- **Average Balls Faced**: >10
 
 ### 2. Anchors/Middle Order:
 - **Batting Average**: >40
-- **Strike Rate**: >125
+- **Strike Rate**: >130
 - **Innings Batted**: >3
 - **Average Balls Faced**: >20
 - **Boundary Percentage**: >25%
@@ -31,12 +32,30 @@
 
 ### 3. Finisher/Anchors:
 - **Batting Average**: >25
-- **Strike Rate**: >130
+- **Strike Rate**: >135
 - **Innings Batted**: >3
 - **Average Balls Faced**: >12
 - **Batting Position**: >4
 - **Innings Bowled**: >1
 
+### 4. All Rounders/ Lower Order
+- **Batting Average**: >15
+- **Strike Rate**: >130
+- **Innings Batted**: >3
+- **Average Balls Faced**: >10
+- **Batting Position**: >4
+- **Innings Bowled**: >2
+- **Economy**: <9
+- **Bowling Strike Rate**: <20
+
+### 4. Specialist Bowlers
+- **Innings Bowled**: >4
+- **Economy**: <8
+- **Bowling Strike Rate**: <16
+- **Bowling Average**: <20
+- **Dot Ball %**: >30
+- **Style**: Fast
+- 
 ## Tech Stack
 
 ### Frontend:
